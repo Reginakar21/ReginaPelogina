@@ -6,8 +6,6 @@
 
 Я начинающий тестировщик. Основной домен - тестирование веб-приложений (front + back). Прошла курс от Яндекс.Практикум "Инженер по тестированию". В данный момент изучаю Java.
 
-- Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:reginakar21@gmail.com)
----
 ### Социальные сети:
 
   <div id="badges">
