@@ -34,4 +34,4 @@
 
 ### Портфолио
 
- [Тест-кейсы](https://docs.google.com/document/d/1qTDNcDS8PBtfEyJCtZpTG2l6YSj6cApbQsTkPc9yuHo/edit?usp=sharing)
+ [Тест-кейсы]([https://docs.google.com/document/d/1qTDNcDS8PBtfEyJCtZpTG2l6YSj6cApbQsTkPc9yuHo/edit?usp=sharing](https://drive.google.com/drive/folders/1pYUXzDfiD6kJKTKBBA7laWwLQgU26DEt?usp=sharing))
